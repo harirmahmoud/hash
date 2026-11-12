@@ -66,7 +66,7 @@ The application implements the **Advanced Encryption Standard (AES)** in **Galoi
 
 1. **Clone or navigate to the project directory**:
    ```bash
-   cd amel
+   cd hash
    ```
 
 2. **Install dependencies**:
